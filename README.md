@@ -1,6 +1,6 @@
-##Howdy 🤠
+# Howdy 🤠
 
 - 🍲 Eat
 - 🖥Code
-🛌 Sleep
-🔁 Repeat
+- 🛌 Sleep
+- 🔁 Repeat
